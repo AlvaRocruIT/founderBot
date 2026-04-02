@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>FounderBot</title>
+  <script src="https://sdk.mercadopago.com/js/v2"></script>
+</head>
+<body>
 
+  <h2>Accede al chatbot</h2>
+
+  <input type="email" id="email" placeholder="Tu email" />
+  <button onclick="iniciarPago()">Pagar</button>
+
+  <div id="wallet_container"></div>
+
+  <script>
+    const mp = new MercadoPago("TU_PUBLIC_KEY", {
+      locale: "es-CL"
+    });
+
+    async function iniciarPago() {
+      const email = document.getElementById("email").value;
+
+      if (!email) {
+        alert("Ingresa tu email");
+        return;
+      }
+
+      // ⚠️ Llamamos a tu backend para crear preferencia
+      const res = await fetch("https://TU-BACKEND.onrender.com/create-payment", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ email })
+      });
+
+      const data = await res.json();
+
+      const preferenceId = data.preference_id;
+
+      // 🔥 Render del Brick
+      mp.bricks().create("wallet", "wallet_container", {
+        initialization: {
+          preferenceId: preferenceId
+        }
+      });
+    }
+  </script>
+</body>
+</html>
