@@ -1,23 +1,23 @@
-<b><big> ✒️ Chat-Screening</b></big>
+<b><big> ✒️ founderBot</b></big>
 
-Bienvenido al chat interactivo con vacantes.
-Este proyecto reinventa la preselección: en lugar de que el candidato solo envíe un CV, ahora puede chatear directamente con la organización y el cargo al que postula.
+Bienvenido al chat interactivo para postulantes a fondos concursables.
+Este proyecto apoya tus postulaciones: en lugar de bancarte documentación eterna, ahora puedes preguntar directamente lo que necesitas saber.
 
 <b>💡 ¿Qué es esto?</b>
 
-Chat-Screening es un chatbot diseñado para representar a una vacante en formato conversacional.
-Permite que candidatos interactúen con el rol, conozcan sus desafíos y hagan preguntas, mientras la organización evalúa:
+founderBot es un chatbot diseñado para representar a una convocatoria en formato conversacional.
+Permite que candidatos interactúen con los fondos concursables, conozcan sus requisitios y hagan preguntas, mientras vas preparando:
 
-✅ el nivel de preparación, <br>
-✅ la calidad de las preguntas, <br>
-✅ la conexión con la cultura, <br>
-✅ y la lectura estratégica del desafío. <br>
+✅ el nivel de profundización, <br>
+✅ dudas recurrentes, <br>
+✅ lo que busca la organización, <br>
+✅ y una visión estratégica del desafío. <br>
 
-En vez de solo leer un CV, la empresa obtiene señales del potencial y la disposición a crecer de cada persona.
+En vez de solo leer un PDF, puedes interactuar adaptando la información a tu prototipo.
 
 <b>🎯 Propósito</b>
 
-Este proyecto nace de la convicción de que reclutar es descubrir potencial, no solo experiencia.
+Este proyecto nace de la convicción de que postular es generar tu información, no la que te etregan.
 
 Aquí combinamos:
 
