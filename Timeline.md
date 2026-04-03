@@ -1,0 +1,41 @@
+<b><big> ✒️ FOUNDERBOT</b></big>
+
+Chat-Screening es un chatbot diseñado para representar a una vacante en formato conversacional.
+Permite que candidatos interactúen con el rol, conozcan sus desafíos y hagan preguntas, mientras la organización evalúa: nivel de preparación, calidad de las preguntas, conexión con la cultura, y lectura estratégica del desafío.
+En vez de solo leer un CV, la empresa obtiene señales del potencial y la disposición a crecer de cada persona.
+
+<details>
+   <summary><b>💡 Timeline del proyecto </b></summary>
+  
+  <b>🎯 Génesis del proyecto</b><br>
+✅ Se comienza a trabajar en el Proyecto'ChatCV' desde 🔗n8n 📅6 AGO. 2025<br>
+✅ Se entrega el proyecto 'ChatCV' 📅12 AGO. 2025<br>
+✅ Al socializarlo, un referente del ecosistema HR me pregunta <strong>✨¿Y si inviertes el enfoque entre el candidato y la empresa?</strong>📅 25 SEP. 2025<br><br>
+<b>🎯 Control de versiones</b><br>
+✅ <strong>El chatbot cobra vida:</strong> Se logra conectar el chatbot con el frontend 📅29 SEP. 2025<br>
+✅ Se logra en crear un frontend para la analítica de datos 📅26 OCT. 2025<br>
+✅ Se logra configurar base de datos en ⚡Supabase 📅29 OCT. 2025<br> 
+✅ Migré el backend desde n8n a FastAPI🟢 usando RAG logrando un cerebro más automático e inteligente mediante python📅15 MAR. 2025 <br>
+✅ En el backend le creé 3 cerebros, uno que almacena y conecta, otro que contextualiza cadenas de conversaciones y el otro que puntua y rankea 📅16 MAR. 2026<br>
+<strong>✨ LUEGO DE 1000 COMMITS, LOGRO UN PROTOTIPO FUNCIONAL ✨</strong><br>
+</details>
+✅ A partir de un pull request, se crean 2 nuevas líenas: <strong>bot-screening y founderBot</strong> 01 ABR. 2026 <br>
+🛑 Luego de algunas redefiniciones estratpegicas Freno chatscreening para potenciar Founderbot📅 02 ABR. 2026 <br><br>
+✅ A founderBot le configuré botón de pago mediante MercadoPago🫱🏼‍🫲🏼📅 02 ABR. 2026 <br><br>
+
+
+<details>
+  <b> 🏴‍☠️ Bitácora de Cagazos </b><br>
+  <summary> Pre-founderbot></summary>
+🪲 Me demoraba entre 15 y 90 min em prender el pc todos los días | El cargador de mi pc era pirata, me tuve que comprar el original 📅 10 NOV. 2025 <br>
+🪲 Integré n8n, github, supabase y cursor con una capacidad inicial de 4 ram. Era como nadar en caca | Escalé a una RAM de 8 GB. 📅 17 NOV. 2025 <br>
+🤦🏻‍♂️ La RAM que compré por PC Factory no era para mi pc | La pude devolver y conseguí por otro lado una SODIMM + instalación 📅 17 NOV. 2025 <br>
+🪲 Mi n8n workflow no conectaba con el front | Me agoté anticipadamente la suscripción de n8n por un maldito trigger que se activaba cada 5 min 📅 18 NOV. 2025 <br>
+💤 Me embalé con esto y con el rafting, no le dí tiempo a generar lucas y perdí la suscripción a cursor a 2 días de presentarlo 📅 11 DIC. 2025 <br>
+🤦🏻‍♂️ Se me quedó el cargador del pc en Stgo, estuve sin notebook como un mes 📅 6 FEB. 2026 <br>
+💤 Me aburrí de esto y me embalé con la temporada de rafting x 2 meses 📅 16 MAR. 2026 <br>
+🤦🏻‍♂️ El problema es que cuando se acabó la temporada me quedé sin plata y de parásito en la casa de mis viejos 📅 01 MAR. 2026<br>
+🪲 El notebook que e compré venía reacondicionado como el hoyo, tuve que cambiarle el windows yo mismo 📅 12 MAR. 2026 <br>
+🧲 Hice 3 pull request y el conteo de commits se me fue al carajo (pasé de 1300 a 3700) 📅 01 ABR. 2026 <br>
+  </details>
+🛑 Pivotazo estratégico: Congelé chat-screening por problemas y amenaza de caja. Potenciaré otro similar, pero con retorno rápido 📅 02 ABR. 2026 <br>
