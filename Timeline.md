@@ -27,7 +27,7 @@ En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personal
 <details>
   <b> 🏴‍☠️ Bitácora de Cagazos </b><br>
   <summary> Pre-founderbot></summary>
-🪲 Me demoraba entre 15 y 90 min em prender el pc todos los días | El cargador de mi pc era pirata, me tuve que comprar el original 📅 10 NOV. 2025 <br>
+🪲 Gastaba hasta 90' diaris en prender el pc |hasta que caché que el cargador era pirata, luego me compré el original 📅 10 NOV. 2025 <br>
 🪲 Integré n8n, github, supabase y cursor con una capacidad inicial de 4 ram. Era como nadar en caca | Escalé a una RAM de 8 GB. 📅 17 NOV. 2025 <br>
 🤦🏻‍♂️ La RAM que compré por PC Factory no era para mi pc | La pude devolver y conseguí por otro lado una SODIMM + instalación 📅 17 NOV. 2025 <br>
 🪲 Mi n8n workflow no conectaba con el front | Me agoté anticipadamente la suscripción de n8n por un maldito trigger que se activaba cada 5 min 📅 18 NOV. 2025 <br>
