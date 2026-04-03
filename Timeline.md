@@ -1,8 +1,8 @@
 <b><big> ✒️ FOUNDERBOT</b></big>
 
-Chat-Screening es un chatbot diseñado para representar a una vacante en formato conversacional.
-Permite que candidatos interactúen con el rol, conozcan sus desafíos y hagan preguntas, mientras la organización evalúa: nivel de preparación, calidad de las preguntas, conexión con la cultura, y lectura estratégica del desafío.
-En vez de solo leer un CV, la empresa obtiene señales del potencial y la disposición a crecer de cada persona.
+Founderbot es un chatbot diseñado para apoyar emprendedores de fase temprana en formato conversacional.
+Permite que ellos interactúen con las convocatorias a fondos concursables, conozcan sus desafíos y hagan preguntas, mientras van desarrollando: su nivel de preparación, calidad de las preguntas, conexión con el enfoque, y lectura estratégica del desafío.
+En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personalizadas en pocas palabras.
 
 <details>
    <summary><b>💡 Timeline del proyecto </b></summary>
