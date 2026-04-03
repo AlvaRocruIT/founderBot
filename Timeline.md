@@ -4,9 +4,8 @@ Founderbot es un chatbot diseñado para apoyar emprendedores de fase temprana en
 Permite que ellos interactúen con las convocatorias a fondos concursables, conozcan sus desafíos y hagan preguntas, mientras van desarrollando: su nivel de preparación, calidad de las preguntas, conexión con el enfoque, y lectura estratégica del desafío.
 En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personalizadas en pocas palabras.
 
-<details>
-   <summary><b>💡 Timeline del proyecto </b></summary>
-  
+<details><b>💡 Timeline del proyecto </b>
+   <summary>  Pre-founderbot</summary>
   <b>🎯 Génesis del proyecto</b><br>
 ✅ Se comienza a trabajar en el Proyecto'ChatCV' desde 🔗n8n 📅6 AGO. 2025<br>
 ✅ Se entrega el proyecto 'ChatCV' 📅12 AGO. 2025<br>
@@ -26,7 +25,7 @@ En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personal
 
 <details>
   <b> 🏴‍☠️ Bitácora de Cagazos </b><br>
-  <summary> Pre-founderbot></summary>
+  <summary> Pre-founderbot</summary>
 🪲 Gastaba hasta 90' diarios en prender el pc, hasta que caché que el cargador era pirata, luego me compré el original 📅 10 NOV. 2025 <br>
 🪲 Integré n8n, github, supabase y cursor con un pc 4 ram. Era como nadar en caca Compré RAM de 8 GB. 📅 17 NOV. 2025 <br>
 🤦🏻‍♂️ La RAM que compré en PC Factory no era para mi pc. La pude devolver y conseguí una SODIMM + instalación 📅 17 NOV. 2025 <br>
