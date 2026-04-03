@@ -1,4 +1,4 @@
-<b><big> ✒️ FOUNDERBOT</b></big>
+<b><big> 🐯 FOUNDERBOT</b></big>
 
 Founderbot es un chatbot diseñado para apoyar emprendedores de fase temprana en formato conversacional.
 Permite que ellos interactúen con las convocatorias a fondos concursables, conozcan sus desafíos y hagan preguntas, mientras van desarrollando: su nivel de preparación, calidad de las preguntas, conexión con el enfoque, y lectura estratégica del desafío.
