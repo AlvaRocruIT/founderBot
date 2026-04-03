@@ -27,13 +27,13 @@ En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personal
 <details>
   <b> 🏴‍☠️ Bitácora de Cagazos </b><br>
   <summary> Pre-founderbot></summary>
-🪲 Gastaba hasta 90' diaris en prender el pc |hasta que caché que el cargador era pirata, luego me compré el original 📅 10 NOV. 2025 <br>
-🪲 Integré n8n, github, supabase y cursor con una capacidad inicial de 4 ram. Era como nadar en caca | Escalé a una RAM de 8 GB. 📅 17 NOV. 2025 <br>
-🤦🏻‍♂️ La RAM que compré por PC Factory no era para mi pc | La pude devolver y conseguí por otro lado una SODIMM + instalación 📅 17 NOV. 2025 <br>
-🪲 Mi n8n workflow no conectaba con el front | Me agoté anticipadamente la suscripción de n8n por un maldito trigger que se activaba cada 5 min 📅 18 NOV. 2025 <br>
-💤 Me embalé con esto y con el rafting, no le dí tiempo a generar lucas y perdí la suscripción a cursor a 2 días de presentarlo 📅 11 DIC. 2025 <br>
+🪲 Gastaba hasta 90' diarios en prender el pc, hasta que caché que el cargador era pirata, luego me compré el original 📅 10 NOV. 2025 <br>
+🪲 Integré n8n, github, supabase y cursor con un pc 4 ram. Era como nadar en caca Compré RAM de 8 GB. 📅 17 NOV. 2025 <br>
+🤦🏻‍♂️ La RAM que compré en PC Factory no era para mi pc. La pude devolver y conseguí una SODIMM + instalación 📅 17 NOV. 2025 <br>
+🪲 Me agoté anticipadamente la suscripción de n8n por un maldito trigger que activaba el frontend cada 5 min 📅 18 NOV. 2025 <br>
+💤 Me embalé con esto y el rafting. No generé caja y perdí la suscripción a cursor a 2 días de presentarlo 📅 11 DIC. 2025 <br>
 🤦🏻‍♂️ Se me quedó el cargador del pc en Stgo, estuve sin notebook como un mes 📅 6 FEB. 2026 <br>
-💤 Me aburrí de esto y me embalé con la temporada de rafting x 2 meses 📅 16 MAR. 2026 <br>
+💤 Me aburrí de esto y me embalé con la temporada de rafting x 2 meses (al menos pagaban) 📅 16 MAR. 2026 <br>
 🤦🏻‍♂️ El problema es que cuando se acabó la temporada me quedé sin plata y de parásito en la casa de mis viejos 📅 01 MAR. 2026<br>
 🪲 El notebook que e compré venía reacondicionado como el hoyo, tuve que cambiarle el windows yo mismo 📅 12 MAR. 2026 <br>
 🧲 Hice 3 pull request y el conteo de commits se me fue al carajo (pasé de 1300 a 3700) 📅 01 ABR. 2026 <br>
