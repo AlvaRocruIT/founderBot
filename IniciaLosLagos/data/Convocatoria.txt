@@ -1,0 +1,333 @@
+'ANEXO TÉCNICO
+CONVOCATORIA SEMILLA INICIA - 2026
+“COMPETITIVIDAD REGIONAL SOSTENIBLE, CON ÉNFASIS EN ECONOMÍA CIRCULAR”
+Antecedentes Generales.
+El desarrollo sostenible trata de satisfacer las necesidades de las personas hoy, sin comprometer
+las necesidades de las generaciones de mañana, al mismo tiempo busca un equilibrio entre las
+consideraciones económicas, sociales y ambientales. Entre los 17 Objetivos de Desarrollo Sostenible
+(ODS), acuerdo que traza un marco para el desarrollo ambiental, social y económico, figuran metas
+para erradicar la pobreza; garantizar la salud, la energía y la seguridad alimentaria; reducir la
+desigualdad; proteger los ecosistemas; o lograr ciudades y economías sostenibles; y un objetivo para
+la acción climática (ODS 13).
+Las respuestas al cambio climático en la forma de adaptación y mitigación también interaccionarán
+con el desarrollo sostenible con efectos positivos, conocidos como sinergias, o con efectos
+negativos, conocidos como concesiones. Estas acciones pueden planificarse de modo de aumentar
+las sinergias con el desarrollo sostenible y se limiten las concesiones que lo menoscaban. (Informe
+IPCC, 2018).
+Si bien, Chile posee emisiones marginales de Gases de Efecto Invernadero (0,3%) a nivel global, es
+uno de los países que se verán más afectados por el cambio climático. De acuerdo con la Convención
+Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), 1992), nuestro país posee 7 de
+los 9 criterios de vulnerabilidad. Estas vulnerabilidades se profundizan por las debilidades
+institucionales, desigualdades sociales y el modelo de desarrollo.
+A nivel global, se ha avanzado en producción sostenible, centrado su foco en la eficiencia material,
+es decir, la entrega de bienes y servicios utilizando menos materiales (Worrell et al., 2016; IEA,
+2019). Junto con la economía circular y la gestión de la demanda de materias primas (Garmulewicz
+et al., 2018), las innovaciones verdes (Shi et al., 2012) y la gestión de cadenas de suministro
+sostenibles (Abhishek y Divyashree, 2019) han estimulado medidas de desmaterialización.
+Se ha citado la demanda de materiales como la principal causa del aumento del consumo de energía
+y de las emisiones industriales (IEA, 2022)10. En este sentido, la eficiencia en el uso de materiales
+se considera cada vez más una estrategia crucial para reducir las emisiones industriales de gases de
+efecto invernadero (IEA, 2017; Material Economics, 2019). Por lo tanto, tanto la desmaterialización
+como la descarbonización son necesarias para la transición de los sistemas industriales.
+En nuestro país, la producción sostenible ha mostrado avances importantes, especialmente en áreas
+como la gestión eficiente del agua en la agricultura y la incorporación de energías renovables en la
+industria. No obstante, persisten desafíos significativos, como la necesidad de una mayor inversión
+en tecnologías limpias y el fortalecimiento de políticas que promuevan la economía circular. La
+implementación de la “Hoja de Ruta para un Chile Circular al 2040”, es fundamental para impulsar
+el uso eficiente de los recursos y la reducción de residuos. Asimismo, la Ley de Fomento al Reciclaje
+y la Ley de Responsabilidad Extendida del Productor (Ley REP), representan instrumentos clave en
+este proceso de transición hacia una producción más sostenible. En este contexto, la adopción de
+cadenas de suministro más sostenibles y el uso de innovaciones tecnológicas, como la inteligencia
+artificial y la digitalización, son cruciales para superar estos retos. Estas estrategias están alineadas
+con los esfuerzos internacionales para reducir las emisiones y optimizar el consumo de recursos,
+consolidando el camino hacia una industria más sostenible.
+Estrategia de Desarrollo Regional (ERD).
+La Visión de la estrategia regional de desarrollo de Los Lagos, pretende, al año 2030, alcanzar un
+desarrollo sustentable1
+, favoreciendo una mejor integración social, cultural, económica y ambiental
+en los ámbitos urbano y rural. A su vez, se apuesta por consolidar un liderazgo en la macrozona suraustral, sostener un sistema económico-productivo competitivo con mayor nivel de diversificación
+y valor agregado, considerando la imperiosa necesidad de un ordenamiento territorial y
+planificación urbana que responda al desafío de adaptación al cambio climático, protegiendo su
+patrimonio natural y cultural. Desde esta perspectiva, se incorpora la valoración y protección del
+medio ambiente, una apuesta por avanzar hacia una economía circular más sustentable, la
+adaptación al cambio climático y resiliencia territorial, y el desarrollo del capital humano como
+elementos estructurantes y condicionantes de la visión (EDR 2030).
+La estrategia de desarrollo regional 2030, define como uno de sus ejes estratégicos la
+Competitividad Regional Sustentable y plantea como objetivo “Avanzar hacia un sistema
+económico productivo sustentable, diversificado, con valor agregado y encadenado a escala
+regional, más próximo a la economía circular, que equilibre una mayor inserción en los mercados
+internacionales con un desarrollo económico local sostenible, potenciando el emprendimiento,
+ampliando las oportunidades laborales y mejorando la calidad del empleo”.
+1 Para efectos de esta guía, se entenderá a la “sustentabilidad” como sinónimo del concepto
+“sostenibilidad”.
+Competitividad Regional Sostenible.
+El Foro Económico Mundial (FEM) señaló que “en el corazón de la agenda de competitividad está el
+reconocimiento de que el crecimiento económico es un conductor central del desarrollo humano”
+(World Economic Forum, 2018) y que este crecimiento es el que permite mejorar la calidad de vida
+de las personas en situación de pobreza o tener mayor libertad para comercializar, estableciéndose
+formas más eficientes de especialización (Norberg, 2008). De este modo, se establece que la agenda
+de competitividad no busca solo el crecimiento económico, sino que entiende a este último como
+aquello que posibilita finalmente una mejor calidad de vida para las personas.
+Ahora bien, aunque hay definiciones estandarizadas, “competitividad” no es un término unívoco,
+debido a que puede trabajarse desde distintos enfoques. Por ejemplo, desde una perspectiva
+microeconómica, suele entenderse a la competitividad como la capacidad de generación de
+ganancias por parte de las empresas y su capacidad de producción en un mercado abierto (Martin,
+1998:2-1). Según Huggins, Izushi y Thompson, el concepto de competitividad en un nivel nacional o
+regional sólo es competitivo en el sentido de que se refiere a la presencia de condiciones que
+permitirán a las empresas competir en los mercados locales, nacionales e internacionales. Las
+regiones compiten tratando de proveer la mejor plataforma para operaciones de alto nivel de
+productividad, pero esto es muy diferente al tipo de competición directa de las empresas”
+(2013:157).
+Índice de Competitividad Regional.
+La SUBDERE desarrolló la definición de competitividad regional, con el Centro de Sistemas Públicos
+(CPS) del Departamento de Ingeniería Industrial de la Universidad de Chile, en el marco de una
+consultoría para la construcción metodológica del Índice de Competitividad Regional (el cual
+presenta tres dimensiones: productividad, calidad de vida y sustentabilidad). Este estudio definió
+competitividad regional como un “Conjunto de factores, políticas e instituciones que promueven
+y/o proveen la producción de bienes y servicios, de manera limpia y sustentable con el medio
+ambiente, que pasan la prueba de los mercados internacionales, y con ello expanden los ingresos
+reales y mejoran la calidad de vida de los habitantes de los territorios”, (CSP, 2015).
+La dimensión de productividad del índice de competitividad regional define el término
+“productividad”, el que convencionalmente se relaciona con la capacidad de producción que tiene
+una empresa. Aquí, no obstante, se tiene una acepción más amplia debido al objeto del análisis que
+son las regiones y no unidades productivas comunes. De este modo, se entenderá por productividad
+a “el conjunto de condiciones de producción asociada a los factores productivos de las regiones
+(disponibilidad de capital, trabajo y tecnología), las condiciones de mercado o de competencia de
+esos factores (disponibilidad local versus importada de esos factores) y su potencial de
+transformación productiva (innovación y aglomeración de los factores)” (CSP, 2015). La dimensión
+productividad está conformada por 5 factores, a saber:
+• Factor de producción: busca medir la capacidad física de las regiones para producir bienes
+y servicios.
+• Mercado laboral: que busca dar la medida de la capacidad y calidad productiva del factor
+trabajo.
+• Innovación: es una medida de la capacidad de creación de bienes y servicios que tiene la
+región.
+• Empresarial: busca medir la capacidad que tiene la región de generar un ambiente favorable
+para iniciar y/o desarrollar una empresa.
+• Acción del Estado: busca medir la capacidad del gobierno regional y de los gobiernos
+comunales de recibir y gestionar recursos para proveer infraestructuras, programas sociales
+y/o desarrollar políticas públicas en la región que finalmente impactan en la productividad,
+el crecimiento económico y el bienestar.
+La dimensión de Calidad de vida es un término comúnmente utilizado para referirse al nivel de
+bienestar de una persona o grupo. Pero dado que se trata sobre el análisis de la calidad de vida en
+las regiones, se hace necesario ampliar este concepto. Según la Real Academia Española, el
+bienestar es el “conjunto de cosas necesarias para vivir bien”. Pues bien, en clave regional, debe
+darse un paso más, debido a lo cual se entenderá por calidad de vida “el bienestar general de los
+individuos que habitan una región” (CSP, 2015). La dimensión calidad de vida está conformada por
+5 factores:
+• Salud: busca medir la capacidad física de las regiones para que sus habitantes puedan gozar
+de una vida sana, entendiendo a ésta como un requisito para contar con un capital humano
+productivo (Eurostat, 2017; Sala-i-martin et al, 2009).
+• Seguridad de la población: da una medida de la capacidad de la región para proveer un
+ambiente libre de peligros, riesgos, amenazas y violencia.
+• Capacidad de generar ingresos: el bienestar económico de un hogar se puede expresar en
+términos de su acceso a bienes y servicios, por ende, cuanto más puede consumir un hogar
+mayor será su nivel de bienestar económico (UNECE, 2011).
+• Igualdad de ingresos: tiene como objetivo medir la capacidad de la región para reducir las
+diferencias de ingresos.
+• Entorno y vivienda: busca medir la capacidad de las regiones para lograr que sus habitantes
+residan en viviendas que otorguen bienestar, y en un entorno que brinde servicios públicos
+de calidad.
+La dimensión de sustentabilidad se aborda bajo la lógica de que un proyecto es sustentable o
+sostenible cuando no requiere agotar los recursos para mantenerse. Para el caso de las regiones,
+corresponde ampliar un tanto el concepto, entendiéndose por sustentabilidad a “la mantención de
+la capacidad de la Región para que futuras generaciones puedan disfrutar de niveles de bienestar
+iguales o superiores al de generaciones presentes” (CSP, 2015). La dimensión sustentabilidad está
+compuesta por 4 factores y sus respectivas variables son:
+• Calidad medioambiental: sus elementos son “el aire, la atmosfera, el agua, el suelo”, entre
+otros, tienen un “gran impacto en el bienestar humano tanto ahora como en el futuro. La
+existencia humana no es posible sin los servicios que brinda” (UNECE et al., 2013).
+• Capital natural: la causalidad de los recursos naturales se basa en que estos se utilizan para
+una variedad de fines en los procesos económicos: proporcionar energía, materias primas,
+el lugar donde se puede llevar a cabo el proceso de producción (como tierra, agua), suelo y
+otros recursos biológicos para la producción agrícola, etc. (UNECE et al., 2013).
+• Capital humano: su relación causal radica en el hecho de que las personas con niveles de
+educación más altos disfrutan de niveles más altos de satisfacción con la vida, mejor salud,
+mayores oportunidades para socializar con los demás y participar en la vida de su
+comunidad. Luego, en términos intergeneracionales, se puede transferir este capital
+humano ya que el nivel educativo de los niños depende en gran medida del de sus padres
+(UNECE et al., 2013).
+• Capital físico: los activos fijos producidos, como edificios, maquinaria e infraestructura,
+juegan un papel importante en la capacidad del país para producir bienes y servicios (OECD,
+2020).
+Política Nacional de Desarrollo Productivo Sostenible.
+El DS 76, del 27 de octubre de 2025, del Ministerio de Economía, Fomento y Turismo aprueba la
+citada política que tiene por objetivo impulsar la competitividad, diversificación y sofisticación de la
+matriz productiva nacional, fomentando un desarrollo productivo sostenible en los distintos
+territorios, tanto mediante acciones directas con las empresas como también a través de la
+generación de condiciones habilitantes, promoviendo la descentralización, la igualdad de género y
+aprovechando estratégicamente las oportunidades de inserción en los mercados globales. Tiene
+cuatro ámbitos de intervención:
+1. Promover la sofisticación y la productividad de los actuales sectores productivos.
+2. Impulsar la diversificación de la economía y sus encadenamientos productivos.
+3. Aprovechar las oportunidades de la transición energética.
+4. Medidas habilitantes y transversales para el desarrollo productivo sostenible.
+Estrategia de Sostenibilidad de Corfo (2025 – 2030).
+Desde su fundación en 1939, la Corporación de Fomento de la Producción – CORFO, ha evolucionado
+permanentemente para abordar los desafíos de cada época. Hoy, integramosla sostenibilidad como
+un eje estratégico transversal y ha adoptado también un enfoque basado en misiones para abordar
+problemas productivos complejos u oportunidades de desarrollo industrial derivados de los desafíos
+de sostenibilidad, destacando entre ellos la descarbonización. A través de sus diferentes áreas de
+trabajo, la Corporación articula programas e instrumentos diseñados para promover una transición
+hacia un modelo económico más inclusivo, resiliente y alineado con los principios del desarrollo
+sostenible.
+A través de la Estrategia de Sostenibilidad, la Corporación establece un marco claro y estructurado
+para guiar su labor en los próximos años, asegurando el adecuado alineamiento con las prioridades
+del país y con los compromisos globales en materia de desarrollo productivo sostenible.
+La Estrategia de Sostenibilidad busca impulsar la transformación del sistema productivo hacia un
+modelo de desarrollo sostenible en todos los sectores económicos, comenzando con el
+fortalecimiento del quehacer institucional y extendiéndolo hacia el impulso de la innovación, el
+emprendimiento y la transformación productiva.
+La Estrategia de Sostenibilidad define 3 Ejes Estratégicos:
+1. Incorporación de la sostenibilidad en los programas e instrumentos de Corfo.
+2. Impulso a la sostenibilidad en el sistema productivo nacional.
+3. Incorporación de la sostenibilidad en los procesos internos de la institución.
+Programa de Desarrollo Sostenible (DPS).
+Uno de los ejes de trabajo del Ministerio de Economía, Fomento y Turismo es impulsar un nuevo
+modelo de desarrollo productivo, donde la economía genere recursos para mejorar la calidad de
+vida de las y los ciudadanos, de manera descentralizada, creando empleos de calidad, abordando
+los desafíos de cambio climático y de equidad de género. También impulsa de manera estratégica
+el DESARROLLO PRODUCTIVO SOSTENIBLE (DPS), generando programas y acciones para que el tejido
+empresarial pueda avanzar y contribuir a los compromisos país en la Agenda 2030 para el Desarrollo
+Sostenible.
+En línea con esta visión, el programa busca fomentar la creación de proyectos que no solo impulsen
+una descarbonización justa y resiliente frente a la crisis climática y sus impactos socioambientales,
+sino que también contribuyan a una mayor diversificación productiva, consolidando así un enfoque
+integral para la sostenibilidad y el progreso del país.
+A continuación, se entregan los desafíos del Plan, en ejecución desde el año 2023:
+Objetivos Estratégicos Desafíos del Programa DPS
+1. Descarbonización justa
+Impulsar el desarrollo de una industria sostenible de
+hidrógeno verde en Chile y promover demanda local para
+descarbonizar la matriz nacional.
+Impulsar la descarbonización de industrias locales.
+Promoción del desarrollo y uso de tecnologías para
+almacenamiento de energía.
+Promover el desarrollo de sistemas energéticos limpios,
+descentralizados e inclusivos.
+Promover la sofisticación en la matriz productiva.
+Impulsar modelo de movilidad sostenible.
+2. Resiliencia ante la crisis climática
+y sus impactos socioambientales
+Enfrentar la crisis hídrica.
+I+D+i para la adaptación climática.
+Apoyar la generación de estrategias territoriales de
+adaptación al Cambio Climático.
+Fortalecer industria de infraestructura verde y soluciones
+basadas en la naturaleza.
+Favorecer una transición justa
+3. Sofisticación y diversificación
+productiva sostenible
+Favorecer el desarrollo de industria local de vacunas y
+biofármacos.
+Impulsar la seguridad y soberanía alimentaria.
+Fomento al desarrollo sostenible de la industria del litio
+en toda su cadena de valor.
+Instrumentos de financiamiento para el desarrollo
+sostenible.
+Economía Circular.
+Para los efectos de esta guía técnica, se entiende que la economía circular es un enfoque que
+involucra una mirada integral a las actividades económicas en el marco de la sostenibilidad
+medioambiental. Esto implica un amplio abanico de campos en los cuales se replantean los procesos
+de producción, los patrones de consumo, el tipo y uso de los materiales, el transporte, la generación
+de energía, la cadena agroalimentaria, la generación y tratamiento de residuos, entre otros.
+Este cambio de paradigma del modelo lineal -donde se demanda, se produce, se consume, y se
+desecha- a un modelo circular, implica evitar la generación de residuos proponiendo una cadena de
+procesos y principios que operan durante todo el ciclo de vida del producto. De esta manera, se
+espera que los productores adopten diseños de productos para que sus materiales generen menos
+residuos, sean más amigables con el medio ambiente, tengan una vida útil mayor, permitan la
+reparación; y en este marco; se hagan cargo del desecho que los productos generen cumpliendo así
+con lo establecido en la Ley REP. A su vez, propicia que los consumidores prefieran productos con
+menor huella ambiental, que cuestionen y modifiquen sus actuales patrones de consumo, que
+consuman menos y que reciclen sus desechos.
+De acuerdo con la Fundación Ellen MacArthur (2013), no es posible trazar el inicio de este concepto
+ni encontrar un autor único que lo haya acuñado en algún momento del tiempo. Sin embargo, se
+asocia con algunas corrientes de pensamientos como el “diseño regenerativo”, “desempeño
+económico o economía de servicio funcional”, “cradle to cradle” (del inglés “cuna a cuna”, también
+entendido como de “origen a origen”), “ecología industrial o ciencia y sustentabilidad”, “economía
+azul”, “biomimetismo” y “permacultura”.
+En los procesos donde se utiliza la menor cantidad de nuevos materiales, incluidos aquellos que
+puedan reutilizarse o reciclarse, también se identifican grandes beneficios económicos y
+ambientales. Esto conlleva ahorros en los costos de materiales, energía y mano de obra, un menor
+impacto en el aire, la tierra y el agua, y reducciones en las emisiones de gases de efecto invernadero.
+Se sugieren también, procesos en los que se recuperen materiales que puedan rediseñarse y tengan
+nuevos usos. Además, se puede identificar y recuperar materiales puros que no hayan sido
+contaminados y que mantengan su calidad y propiedades, por lo que pueden reutilizarse en la
+fabricación primaria, lo que prolonga la productividad del material (Fundación Ellen MacArthur,
+2017).
+Como se puede apreciar, la economía circular es un concepto muy amplio que puede tener distintos
+significados para distintas personas. Kirchherr, Reiker y Hekkert (2017) recolectaron 114
+definiciones, las que codificaron en 17 dimensiones y luego de analizar aquellas escritas en artículos
+académicos, reportes y artículos de políticas públicas llegaron a la siguiente:
+“Una economía circular describe un sistema económico que se basa en modelos de negocio que
+reemplazan el concepto de “fin de vida útil” por reducir, alternativamente reutilizar, reciclar y
+recuperar materiales en los procesos de producción / distribución y consumo, operando así a nivel
+micro (productos, empresas, consumidores), nivel meso (parques eco-industriales) y nivel macro
+(ciudad, región, nación y más), con el objetivo de lograr un desarrollo sostenible, lo que implica crear
+calidad ambiental, prosperidad económica y equidad social, al beneficio de las generaciones actuales
+y futuras".
+Esquema de la Economía Circular
+Fuente: Fundación Ellen MacArthur, “Diagrama sistémico” (2019).
+Este esquema de producción y consumo propone un cambio sistémico en el panorama industrial,
+particularmente en el diseño de productos, en los modelos de negocios, en los flujos de recursos y
+en la creación de valor (Fundación Ellen MacArthur, 2017).
+La aplicación de estrategias de circularidad tiene como efecto la reducción del consumo de recursos
+naturales y materiales, minimización de la producción de residuos y regeneración de los sistemas
+naturales, lo que implica prevenir la generación y gestionar los residuos resultantes en toda la
+cadena de valor.
+Los principios fundamentales de la economía circular incluyen:
+• Diseñar para el futuro: Implica considerar el impacto ambiental de los productos desde su
+diseño, optando por materiales sostenibles y diseños que faciliten la reparación y el reciclaje.
+• Preservar y extender lo que ya se ha hecho: Se enfoca en mantener en uso los productos y
+materiales el mayor tiempo posible, a través de la reparación, la reutilización y la
+remanufactura.
+• Usar residuos como recursos: Transformar los residuos en insumos para nuevos procesos de
+producción, cerrando los ciclos de materiales.
+• Repensar: Reconsiderar la forma en que se consumen y se ofrecen los bienes y servicios,
+favoreciendo los modelos de negocio basados en el uso o el servicio en lugar de la posesión.
+• Circularidad de energía: En la última etapa de la vida útil de un producto este se transforma
+en energía renovables y eficiente para reducir la dependencia de fuentes de energía no
+renovables.
+La implementación de la economía circular implica cambios significativos en la manera de producir
+y consumir, incluyendo innovaciones en diseño de productos, modelos de negocio, y en la
+infraestructura de gestión de residuos y recursos. Los beneficios esperados incluyen no solo la
+reducción del impacto ambiental, sino también la creación de nuevas oportunidades económicas y
+empleos, además de contribuir a una mayor resiliencia frente a las fluctuaciones de los mercados
+de materias primas.
+Se pueden identificar diez posibles estrategias de economía circular, divididas en tres grupos, que
+van de mayor a menor grado de circularidad:
+Grupo 1. Uso y fabricación de productos más inteligentes (R0, R1 y R2).
+Grupo 2. Extender la vida útil del producto y de sus partes (R3, R4, R5, R6 y R7).
+Grupo 3. Aplicación útil de materiales (R8 y R9).
+Estrategias de circularidad
+Fuente: Elaboración propia, a partir de la Fundación Ellen MacArthur “Diagrama sistémico” (2019).
+Enlaces de interés.
+• Comisión Europea - Agencia Ejecutiva Europea para el Clima, la Infraestructura y el
+Medio Ambiente (CINEA), Base de Datos Pública LIFE:
+https://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=ho
+me.showFile&rep=file&fil=ECOIL_Ciclo_de_Vida.pdf
+• Ellen Macarthur Foundation - economía circular:
+https://www.ellenmacarthurfoundation.org/
+• Estrategia de Desarrollo Regional Los Lagos 2030:
+https://www.goreloslagos.cl/gobierno_regional/documentos_gestion.html
+• Plan de Acción Regional de Cambio Climático Los Lagos:
+https://www.goreloslagos.cl/gobierno_regional/Asamblea_Climatica.html
+• Política Regional Sostenibilidad Hídrica de la Región de Los Lagos:
+https://www.goreloslagos.cl/gobierno_regional/sostenibilidadhidrica.html
+• Índice de Competitividad Regional 2020:
+https://proactiva.subdere.gov.cl/handle/123456789/543
+• Ley N° 20.920, Marco para la Gestión de Residuos, la Responsabilidad Extendida del
+Productor y Fomento al Reciclaje: https://economiacircular.mma.gob.cl/ley-rep/
+• Hoja de Ruta para un Chile Circular al 2040. Ministerio del Medio Ambiente, Chile:
+https://economiacircular.mma.gob.cl/hoja-de-ruta/
+• Plan Nacional de Eficiencia Energética 2022-2026:
+https://energia.gob.cl/sites/default/files/eficiencia-energetica_16-nov.pdf
+• Contribución Determinada a Nivel Nacional (NDC) de Chile 2020. Ministerio del
+Medio Ambiente, Chile:
+https://www.enccrv.cl/ndc-chile-2020-espanol
+• Estrategia de Sostenibilidad de Corfo:
+https://repositoriodigital.corfo.cl/items/1323e405-47c1-4505-981e9226b18eb5c1
+• Programa Desarrollo Productivo Sostenible:
+https://programadps.gob.cl/
+• Oferta de programas y convocatorias CORFO:
+https://www.corfo.gob.cl/sites/cpp/programasyconvocatorias/'
