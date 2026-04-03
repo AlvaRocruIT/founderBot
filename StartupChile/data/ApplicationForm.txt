@@ -1,0 +1,427 @@
+'Our Programs
+Build: Up to 1 year of development, 10 Million CLP in grant (around 13k USD), at least 50% of
+selected startups will have female founders. Around 40-50 startups will be selected.
+Ignite: Up to 3 years of development, 25 million CLP in grant (around 32k USD). Around 30-40
+startups will be selected.
+Growth: Startups selling between CLP $80M - $800M, 75 Million CLP in grant (around 97k
+USD). Around 15-20 startups will be selected.
+1. Which program(s) are you applying to? *
+You can select as many as you want. If you meet the requirements for more than one program, we strongly
+recommend you to select all that apply. If your application has a good evaluation, Start-Up Chile's committee will
+decide in which program you'll be accepted.
+
+*Build
+*Ignite
+*Growth
+
+General Information
+Welcome to Start-Up Chile’s application form. You will notice that we are looking for specific information
+about your startup and your founding team. All of this information is extremely important as we prepare
+the program and make decisions about which entrepreneurs are best to participate. Respond carefully to
+each question so we can base our decisions on the most accurate information. Please be precise and
+concise with your answers, go straight to the point.
+When your entire application is submitted, all information will be transferred to our evaluation
+department and you will become an official candidate to participate in Start-Up Chile Program.
+Let’s begin!
+2. In which language are you applying? *
+Be consistent with the language in the entire application, You won't get a better evaluation if it is in English or
+*Spanish.
+*English
+Spanish
+3. Email *
+Provide an email where you accept to receive notifications of the application process.
+Confirm the email *
+4. Startup name *
+This name will become the official name in the contract with CORFO and can NOT be formally changed.
+5. Is this company incorporated in Chile? *
+If you have a Chilean company you HAVE to apply with your legal entity (answer yes, if not you won't be able to
+account expenses with that company), if you Don't, you will apply as a natural person.
+*Yes
+*No
+6. Is your company incorporated in another country? *
+(Excluding Chile), remember this company won't be the beneficiary of the program, it will be the team leader as a
+natural person or a chilean company (therefore you can not account expenses made by the international
+company).
+*Yes
+*No
+7. How did you hear about this application process? *
+Select the main source
+*Word of Mouth
+*Start-Up Chile Events or visits
+*Through another acceleration program
+*Search engines (Google, Yahoo, Bing, etc)
+*News (Digital or Traditional Media)
+*Social Media (Facebook)
+*Social Media (Linkedin)
+*Social Media (Instagram)
+*Social Media (Twitter)
+*Social Media (YouTube)
+*Other (specify)
+
+Eligibility
+1. Terms and Conditions *
+Read the Terms and Conditions
+*I have read and understood the Terms and Conditions
+2. Will the team leader have exclusive dedication to the project? *
+By exclusive dedication, we mean that the team leader dedicates 100% of their professional time to the startup.
+*Yes
+*No
+3. Will the team leader live in Chile for the entire duration of the project? *
+(For Build and Ignite at least 5 months, and Growth 12 months)
+*Yes
+*No
+4. Has the startup already been awarded a CORFO fund? *
+*Yes
+*No
+5. Has Team Leader, any of the Team Members or co-founders already been awarded a CORFO Fund? *
+*Yes
+*No
+6. Are you re-applying? *
+*Yes; I’m reapplying with the same idea
+*Yes; I’m reapplying with a different idea
+*No
+7. Is your project a consulting company? *
+A consulting company is a professional service firm that provides expert advice for a fee.
+*Yes
+*No
+8. Is your project a franchise of an existing company? *
+A franchise company is an enterprise that have the licenses from another party (known as a franchisor) to sell its
+products, goods, or services under its brand name.
+*Yes
+*No
+
+Startup Info
+1. Pitch your Startup in 7 words *
+Avoid slogans / Use Keywords. E.g. (based on Slack:) "Team communication tool with persistent chat rooms.
+2. Public Description *
+Will be published upon acceptance to the Program.
+Normal
+3. In which industry does your business operate? (Main category) *
+Industry
+4. In which other industry does your business operate? (Secondary category) (Optional)
+Industry
+5. Product Type *
+*Software
+*Physical Product (Hardware)
+*Physical Product (non-Hardware)
+*Service
+6. What type of business model are you seeking? *
+*Business-to-Business (B2B)
+*Business-to-Consumer (B2C)
+*Business-to-Government (B2G)
+*Consumer-to-Business (C2B)
+*Consumer-to-Consumer (C2C)
+*Business-to-Business -to-Costumer (B2B2C)
+7. How long ago did you start the commercial development of your product/service? *
+Consider the time when you started validating your solution in the market, tests, pilots with potential
+users/clients, surveys, sales, etc.
+Hint: If you have not already started the commercial development of your product/service just put the current
+date.
+Date format: dd/MM/yyyy
+8. Is there an R&D phase involved in the development of your product/service? *
+Research and Development includes activities that the founders undertake to innovate and introduce new
+products/services (eg. Lab tests, patentable products, hardware development, etc.)
+*Yes
+*No
+9. Where are your startup headquarters? *
+10. Is your startup currently operating in any country? *
+To be considered as "operating in a country" you must meet at least one of these criteria: +500 users, +$1000 USD
+revenue, employees or commercial office in a specific country.
+*Yes
+*No
+11. What phase of development is your startup in? *
+*Concept
+*Developing the prototype
+*Functional prototype with no users/clients
+*Pivoting prototype with users/clients
+*Functional product with users/clients
+*Scaling sales
+12. Online Presence. Does your startup currently have any of the following? *
+*An active website
+*A Facebook page
+*An Instagram account
+*A Crunchbase account
+*A LinkedIn group or page
+*Other
+*None
+13. Online video pitch (90 seconds video) *
+Provide a valid public link (YouTube, VIMEO, etc), with NO password protection, please. You can make the
+video in English or Spanish (please be consistent with the language you are applying with). We are more
+interested in a clear message than a professionally-produced video. Pitch your startup in 90 seconds or less,
+answering the following questions:
+• What problem are you solving?
+• What is your solution?
+• Why is this unique/innovative?
+• Does it have local, regional, and/or global potential? Why?
+• Who is the team behind the project?
+We would like to see you and your team in the video, no animations, please.
+14. Prior Accelerator Participation *
+Has your startup participated in any accelerator program?
+*Yes
+*No
+
+Startup Description
+1. What problem are you solving? *
+Why is this an opportunity? Is this a global problem or a local one?
+2. What is your product or service and how does it solve the problem you described? *
+Please describe what you are offering. What is new/innovative about what you are doing? How do you create
+value for your customers?
+3. What is the technology behind your product/service? and how does it make your business scalable? *
+How could it help you to scale?
+4. Do you have an MVP (minimum viable product)? *
+A minimum viable product (MVP) is the simplest version of a product/service with sufficient features to satisfy
+the first potential customer or user.
+*Yes
+*No
+5. If you have already your product, MVP, or prototype, please share it with us (link).
+Provide us with something we can see! if theres an access give us the password, it can also be a Photo, video,
+website, document, etc.
+6. Intellectual Property *
+Whether assigned by an owner or obtained in some other way, does your venture have any intellectual
+property? Describe.
+7. Have you already raised any capital for this startup? *
+*Yes
+*No
+
+Expectations of the Start-Up Chile program
+8. What benefits are you looking for through Start-Up Chile? *
+Please select the top three benefits that you are most interested in. (You can choose up to three).
+Hints: Corporate connections (e.g., with potential partners and customers), Access to international partners (e.g.,
+accelerators, softlanding programs, etc), Business skills development (e.g., finance, legal, marketing, and other
+skills), Awareness and credibility (e.g., association with a recognized program, press/media exposure), Perks and
+company benefits (e.g., cloud, management tools, legal & accounting, etc)
+*Corporate connections
+*Connections with potential investors
+*Mentorship from business experts
+*Access to international partners
+*Gaining access to a group of like-minded entrepreneurs
+*Business skills development
+*Hiring/New talent for my team
+*Awareness and credibility
+*Perks and company benefits
+*Access and understanding of the Chilean/Latam market
+*Equity-free grant
+*Other
+Máximo de opciones permitidos: 3
+
+Market & Business
+1. What is your revenue model? *
+How does or will your startup make money? What are your revenue streams?
+2. What is your target market? *
+Who are you selling your product/service to? What is the estimated size of your target market?
+3. Describe the traction or validation that your startup has had *
+Sales, number of users or customers, pilots, MVP validation, any remarkable partner or client, or activities you've
+done to validate your product/service with potential users/clients, etc. Globally and in Chile.
+4. Provide the updated value of your main metrics (Unit economics) (Optional)
+Hint: Value of CAC, LTV, ARR, MRR, Burn rate, etc)
+5. Does your business already have sales? *
+*Yes
+*No
+6. Who are your competitors or substitutes? *
+Describe the types of businesses that you have identified as your main competitors and where they are located.
+7. Why are you different/better than your competitors? *
+8. How did the context of the pandemic affect your business? *
+What’s your plan to expand to other territories, markets, industries? Did you pivot or switch anything in
+2020/2021.
+9. What are the main uncertainties associated with your startup? *
+Market? Business Model? Technology?
+
+General Impact
+1. Why the Chilean market is relevant for the development of your startup? *
+2. What do you expect to achieve by the end of the Start-Up Chile program? *
+3. How do you plan to expand your business globally? *
+Describe the growth strategy of your startup in terms of customers, markets, employees, and other key
+elements.
+4. How/Where will you get the money fot the % of co-financing of the grant? *
+Depending for which program you get selected, the co-financing % will be; 10% for build, 10% for female
+founders for Ignite (20% for male founders), 50% for growth)
+5. Would you like to establish your startup in Chile? *
+I'm already established in Chile
+*Yes
+*No
+*I don't know yet
+
+Collaborators & Team Leader
+1. How many founders does the startup have? *
+A founder is a person who is actively involved in the start of the venture and/or has had a financial stake in the
+venture from the start.
+2. How many employees does your startup have, excluding founders? *
+Average number of full and part time workers in the last 12 months. This doesn’t include outsourcing services.
+3. Why is you team capable of achieving success with your startup? *
+Tell us about the complementary abilities of the founder team and employees behind the startup, and what are
+the main capabilities to reach the success of your enterprise.
+4. How much equity of your startup does the founding team own? (in percentage) *
+If you haven't formalized your business and if there is any other person that will have equity in your startup, just
+put 100%.
+*%
+5. Do you have any mentors, advisory board members or consultants? *
+*Yes
+*No
+
+Team Leader
+This will be the person responsible to attend the mandatory activities of the program, and cannot be
+changed after the application is submitted. It must be a founder of the startup or own more than 10% of
+the company shares.
+6. First Name (Team Leader) *
+Please enter the name EXACTLY as it appears on the passport or Chilean ID, including your middle name (if any).
+NO nicknames, short names, or any other unofficial names will be accepted.
+7. Last Names (Team Leader) *
+Please enter the name EXACTLY as it appears on the passport or Chilean ID, including your middle name (if any).
+NO nicknames, short names, or any other unofficial names will be accepted.
+8. Which gender does Team Leader identify with? (Team Leader) *
+*Female
+*Male
+9. Date of Birth (Team Leader) *
+10. Address (Team Leader) *
+Street *
+Number *
+Office/Apt/House
+11. Email Address (Team Leader) *
+12. Mobile phone number (Team Leader) *
+IMPORTANT: you must enter the phone number following the international standard format without
+whitespaces: + [Country Code][Area Code][Phone Number] (e.g. +123123123456789)
+13. LinkedIn URL (Team Leader) *
+Please provide the link to the Team Leader's public profile
+(e.g.: https://www.linkedin.com/in/...)
+14. Country of Birth (Team Leader) *
+Please select the country that issued the Team Leader's birth certificate.
+15. Country of Residence (Team Leader) *
+16. City (Team Leader) *
+Please specify the city where the Team Leader resides.
+17. What is the highest level of education that the Team Leader has completed? *
+Please specify the most recent university that the Team Leader attended and specify the name of the institution
+below.
+18. Institution Name (Team Leader) *
+19. Area of Study (Team Leader) *
+20. Tell us about the Team Leader's experience to date and how that experience is relevant to this startup.
+*
+Think about a case where your experience brings a unique contribution to the potential success of your startup.
+Normal
+21. Describe the most significant accomplishment of the Team Leader *
+We recommend you to use the STAR methodology (explain briefly the Situation, the Task, the Activities that you
+did, and the main Results).
+Normal
+22. In which industry does the Team Leader have the most experience? *
+Industry
+23. Please specify (In which industry does the Team Leader have the most experience? - Other)
+Only if you has selected "Other" in the previous question.
+24. How many years of professional experience does the Team Leader have? *
+Only numbers
+25. Has the Team Leader founded or co-founded any other startups in the past? *
+Yes
+No
+26. Which of the following best describes the Team Leader's role in this startup? *
+27. Does the Team Leader have a Chilean ID? *
+Yes
+No
+28. What languages does the Team Leader speak? (Team Leader) *
+English
+Spanish
+Other
+29. How much time does the Team Leader invest working in this startup? (Team Leader) *
+30. Does the Team Leader own equity of this startup? (Team Leader) *
+If you have not created the company and you are a founder of this company, put "Yes" in this question.
+Yes
+No
+
+Cofounders
+You can register up to 4 co-founders, who will be part of the execution of the project. Team members
+cannot be changed after the application is submitted.
+1. Do you need to add a Co-founder? *
+Yes
+No
+Co-founder 1
+2. First Name (Co-founder 1) *
+Please enter the name EXACTLY as it appears on the passport or Chilean ID, including your middle name (if any).
+NO nicknames, short names, or any other unofficial names will be accepted.
+3. Last Names (Co-founder 1) *
+Please enter the name EXACTLY as it appears on the passport or Chilean ID, including your middle name (if any).
+NO nicknames, short names, or any other unofficial names will be accepted.
+4. Which gender does the Co-founder identify with? (Co-founder 1) *
+Female
+Male
+5. Date of Birth (Co-founder 1) *
+6. Email Address (Co-founder 1) *
+7. Mobile phone number (Co-founder 1) *
+IMPORTANT: you must enter the phone number following the international standard format without
+whitespaces: + [Country Code][Area Code][Phone Number] (e.g. +123123123456789)
+8. LinkedIn URL (Co-founder 1) *
+Please provide the link to the Co-founder's public profile
+(e.g.: https://www.linkedin.com/in/...)
+9. Country of Birth (Co-founder 1) *
+10. Country of Residence (Co-founder 1) *
+11. City (Co-founder 1) *
+Please specify the city where the Co-founder resides.
+12. What is the highest level of education that the Co-founder has completed? (Co-founder 1) *
+Please specify the most recent university that the Co-founder attended and specify the name of the institution
+below.
+13. Institution Name (Co-founder 1) *
+14. Area of Study (Co-founder 1) *
+15. Tell us about the Co-founder's experience to date and how that experience is relevant to this startup.
+(Co-founder 1) *
+Think about a case where the Co-founder's experience brings a unique contribution to the potential success of
+the startup.
+Normal
+16. Describe the most significant accomplishment of the Co-founder (Co-founder 1) *
+We recommend you to use the STAR methodology (explain briefly the Situation, the Task, the Activities that you
+did, and the main Results).
+Normal
+17. In which industry does the Co-founder have the most experience? (Co-founder 1) *
+Industry
+18. Please specify (In which industry does the Co-founder have the most experience? - Other)(Co-founder
+1)
+Only if you has selected "Other" in the previous question.
+19. How many years of professional experience does the Co-founder have? (Co-founder 1) *
+Only numbers
+20. Has the Co-founder founded or co-founded any other startups in the past? (Co-founder 1) *
+*Yes
+*No
+21. Which of the following best describes the Co-founder's role in this startup? (Co-founder 1) *
+CEO
+*Operations
+*Finance
+*Technology
+*Sales
+*Marketing
+*Other (specify)
+22. Is the Co-founder going to live in Chile during the program? (Co-founder 1) *
+*Yes
+*No
+23. Does the Co-founder have a Chilean ID? (Co-founder 1) *
+*Yes
+*No
+24. What languages does the Co-founder speak? (Co-founder 1) *
+*English
+*Spanish
+*Other
+25. How much time does the Co-founder invest working in this startup? (Co-founder 1) *
+26. Does the Co-founder own equity of this startup? (Co-founder 1) *
+If the company has not been created yet, put "Yes" in this question.
+*Yes
+*No
+27. Do you need to add a co-founder? *
+*Yes
+*No
+
+Recommendation
+1. Recommender's Full Name *
+2. Organization *
+Company/Organization name
+3. Title *
+What is your recommender's position at his/her current organization
+4. Recommender's Email *
+5. Recommender's Linkedin URL *
+(e.g.: https://www.linkedin.com/in/...)
+6. Upload a recommendation letter describing why the recommender supports you? *
+Why does this recommender think you are able to successfully execute your idea at Start-Up Chile?
+Tamaño máximo de archivo: 2 MB
+Formatos de archivo permitidos: .pdf, .PDF
+Adjunta
+O suelta archivo acá
+7. Declaration I *
+I certify that my answers are true and complete to the best of my knowledge.
+8. Declaration II *
+I have submitted only one application to this round of Start-Up Chile.
+9. Declaration III *
+I Agree to receive the application results via Email to the address submitted in the general
+information section (regarding the Law N° 19.890, article 30, letter a) and article 19 1st item).'
