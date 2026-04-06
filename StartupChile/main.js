@@ -50,7 +50,7 @@ function buildPayload(messageText) {
   return {
     message: messageText,
     session_id: getOrCreateSessionId(),
-    fund_slug: getFundSlugFromPath(),
+    fund_slug: "startupchile",
     user_name: localStorage.getItem("userName"),
     user_email: localStorage.getItem("userEmail"),
   };
