@@ -43,11 +43,16 @@ function getOrCreateSessionId() {
   return sessionId;
 }
 
+function getFundSlugFromPath() {
+  const slug = new URLSearchParams(location.search).get("fund") || "startupchile";
+  return slug;
+}
+
 function buildPayload(messageText) {
   return {
     message: messageText,
     session_id: getOrCreateSessionId(),
-    vacante_id: getVacanteIdFromPath(),
+    fund_slug: getFundSlugFromPath(),
     user_name: localStorage.getItem("userName"),
     user_email: localStorage.getItem("userEmail"),
   };
