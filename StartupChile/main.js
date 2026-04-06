@@ -18,7 +18,7 @@ const startSendBtn = document.getElementById("send-btn-start");
 const chatInput = document.getElementById("chat-input-chat");
 const chatSendBtn = document.getElementById("send-btn-chat");
 
-const API_URL = https://founder-backend-yo6y.onrender.com/chat;
+const API_URL = "https://founder-backend-yo6y.onrender.com/chat";
 const nameRegex = /^[\p{L}]+(?:[\s'’\-][\p{L}]+)*$/u;
 const emailRegex = /^[A-Za-z0-9._%+-]+@([A-Za-z0-9-]{2,}\.)?[A-Za-z0-9-]{2,}\.[A-Za-z]{2,}$/;
 
