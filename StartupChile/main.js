@@ -18,12 +18,7 @@ const startSendBtn = document.getElementById("send-btn-start");
 const chatInput = document.getElementById("chat-input-chat");
 const chatSendBtn = document.getElementById("send-btn-chat");;
 
-// =============================== Configuración de endpoint (desacoplada)
-const DEFAULT_API_URL = "http://127.0.0.1:8000/chat"; // backend local por defecto
-const API_URL =
-  (window.__FOUNDERBOT_CONFIG__ && window.__FOUNDERBOT_CONFIG__.apiUrl) ||
-  localStorage.getItem("founderbot_api_url") ||
-  DEFAULT_API_URL;
+const API_URL = https://founder-backend-yo6y.onrender.com/chat;
 const nameRegex = /^[\p{L}]+(?:[\s'’\-][\p{L}]+)*$/u;
 const emailRegex = /^[A-Za-z0-9._%+-]+@([A-Za-z0-9-]{2,}\.)?[A-Za-z0-9-]{2,}\.[A-Za-z]{2,}$/;
 
