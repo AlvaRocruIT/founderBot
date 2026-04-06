@@ -18,16 +18,19 @@ const startSendBtn = document.getElementById("send-btn-start");
 const chatInput = document.getElementById("chat-input-chat");
 const chatSendBtn = document.getElementById("send-btn-chat");;
 
-const API_URL = "https://chatbot-backend-d5xj.onrender.com/chat";
+// =============================== Configuración de endpoint (desacoplada)
+const DEFAULT_API_URL = "http://127.0.0.1:8000/chat"; // backend local por defecto
+const API_URL =
+  (window.__FOUNDERBOT_CONFIG__ && window.__FOUNDERBOT_CONFIG__.apiUrl) ||
+  localStorage.getItem("founderbot_api_url") ||
+  DEFAULT_API_URL;
 const nameRegex = /^[\p{L}]+(?:[\s'’\-][\p{L}]+)*$/u;
 const emailRegex = /^[A-Za-z0-9._%+-]+@([A-Za-z0-9-]{2,}\.)?[A-Za-z0-9-]{2,}\.[A-Za-z]{2,}$/;
 
 let isSending = false;
 
-function getVacanteIdFromPath() {
-  const map = { vacante1: 1, vacante2: 2, vacante3: 3 };
-  const key = new URLSearchParams(location.search).get("vacante") || "vacante1";
-  return map[key] || 1;
+function getFundSlugFromPath() {
+  return new URLSearchParams(location.search).get("fund") || "startupchile";
 }
 
 function getPreferredEndpoint() {
@@ -154,9 +157,8 @@ function bindEnterToSend(textareaEl, sendFn) {
   });
 }
 
-// ===============================
-// Modal logic
-// ===============================
+// =============================== Modal logic
+
 async function handleAccept() {
   const name = loginName?.value.trim() || "";
   const email = loginEmail?.value.trim() || "";
@@ -187,9 +189,8 @@ async function handleAccept() {
   app?.removeAttribute("aria-hidden");
 }
 
-// ===============================
-// Chat flow
-// ===============================
+// =============================== Chat flow
+
 async function sendMessage() {
   if (isSending) return;
 
@@ -225,9 +226,8 @@ async function sendMessage() {
   }
 }
 
-// ===============================
-// Event bindings
-// ===============================
+// =============================== Event bindings
+
 acceptBtn?.addEventListener("click", handleAccept);
 
 backBtn?.addEventListener("click", () => {
