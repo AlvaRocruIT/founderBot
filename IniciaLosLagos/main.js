@@ -1,3 +1,4 @@
+
 // Elementos del DOM
 //▶️ App shells
 const app = document.getElementById("app");
@@ -16,18 +17,16 @@ const loginEmail = document.getElementById("loginEmail");
 const startInput = document.getElementById("chat-input-start");
 const startSendBtn = document.getElementById("send-btn-start");
 const chatInput = document.getElementById("chat-input-chat");
-const chatSendBtn = document.getElementById("send-btn-chat");;
+const chatSendBtn = document.getElementById("send-btn-chat");
 
-const API_URL = "https://chatbot-backend-d5xj.onrender.com/chat";
+const API_URL = "https://founder-backend-yo6y.onrender.com/chat";
 const nameRegex = /^[\p{L}]+(?:[\s'’\-][\p{L}]+)*$/u;
 const emailRegex = /^[A-Za-z0-9._%+-]+@([A-Za-z0-9-]{2,}\.)?[A-Za-z0-9-]{2,}\.[A-Za-z]{2,}$/;
 
 let isSending = false;
 
-function getVacanteIdFromPath() {
-  const map = { vacante1: 1, vacante2: 2, vacante3: 3 };
-  const key = new URLSearchParams(location.search).get("vacante") || "vacante2";
-  return map[key] || 2;
+function getFundSlugFromPath() {
+  return new URLSearchParams(location.search).get("fund") || "IniciaLosLagos";
 }
 
 function getPreferredEndpoint() {
@@ -43,11 +42,16 @@ function getOrCreateSessionId() {
   return sessionId;
 }
 
+function getFundSlugFromPath() {
+  const slug = new URLSearchParams(location.search).get("fund") || "IniciaLosLagos";
+  return slug;
+}
+
 function buildPayload(messageText) {
   return {
     message: messageText,
     session_id: getOrCreateSessionId(),
-    vacante_id: getVacanteIdFromPath(),
+    fund_slug: getFundSlugFromPath(),
     user_name: localStorage.getItem("userName"),
     user_email: localStorage.getItem("userEmail"),
   };
@@ -149,9 +153,8 @@ function bindEnterToSend(textareaEl, sendFn) {
   });
 }
 
-// ===============================
-// Modal logic
-// ===============================
+// =============================== Modal logic
+
 async function handleAccept() {
   const name = loginName?.value.trim() || "";
   const email = loginEmail?.value.trim() || "";
@@ -182,9 +185,8 @@ async function handleAccept() {
   app?.removeAttribute("aria-hidden");
 }
 
-// ===============================
-// Chat flow
-// ===============================
+// =============================== Chat flow
+
 async function sendMessage() {
   if (isSending) return;
 
@@ -220,13 +222,12 @@ async function sendMessage() {
   }
 }
 
-// ===============================
-// Event bindings
-// ===============================
+// =============================== Event bindings
+
 acceptBtn?.addEventListener("click", handleAccept);
 
 backBtn?.addEventListener("click", () => {
-  window.location.href = "/chat-screening/vacante2/index.html";
+  window.location.href = "/founderBot/index.html";
 });
 
 loginEmail?.addEventListener("keydown", (e) => {
