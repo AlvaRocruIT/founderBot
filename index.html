@@ -30,6 +30,19 @@
     </div>
   </div>
   <script src="main.js"></script>
+
+  <script id="cursor-track">
+document.querySelectorAll(".button-container button").forEach(btn => {
+  btn.addEventListener("mousemove", e => {
+    const rect = btn.getBoundingClientRect();
+    const x = ((e.clientX - rect.left) / rect.width) * 100;
+    const y = ((e.clientY - rect.top) / rect.height) * 100;
+
+    btn.style.setProperty("--x", x + "%");
+    btn.style.setProperty("--y", y + "%");
+  });
+});
+</script>
 </body>
 </body>
 </html>
