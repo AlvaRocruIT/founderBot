@@ -20,7 +20,7 @@ En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personal
 </details>
 ✅ A partir de un pull request, se crean 2 nuevas líenas: <strong>bot-screening y 🐯founderBot</strong> 01 ABR. 2026 <br>
 🛑 Luego de algunas redefiniciones estratpegicas Freno chatscreening para potenciar 🐯FounderBot📅 02 ABR. 2026 <br>
-✅ A founderBot le configuré botón de pago mediante MercadoPago🫱🏼‍🫲🏼📅 02 ABR. 2026 <br>
+✅ A 🐯founderBot le configuré botón de pago mediante MercadoPago🫱🏼‍🫲🏼📅 02 ABR. 2026 <br>
 ✅ Primeras interacciones en vivo con 🐯founderBot 📅 06 ABR. 2026<br>
 
 
