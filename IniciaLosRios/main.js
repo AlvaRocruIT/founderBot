@@ -149,7 +149,6 @@ function bindEnterToSend(textareaEl, sendFn) {
 }
 
 // =============================== Modal logic
-
 async function handleAccept() {
   const name = loginName?.value.trim() || "";
   const email = loginEmail?.value.trim() || "";
