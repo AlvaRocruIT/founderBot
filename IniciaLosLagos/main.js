@@ -42,11 +42,6 @@ function getOrCreateSessionId() {
   return sessionId;
 }
 
-function getFundSlugFromPath() {
-  const slug = new URLSearchParams(location.search).get("fund") || "IniciaLosLagos";
-  return slug;
-}
-
 function buildPayload(messageText) {
   return {
     message: messageText,
