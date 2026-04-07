@@ -1,4 +1,4 @@
-/* =========================   Base
+/*  Base */
 :root {
   --bg: #f3f6fa;
   --text: #1a1a1a;
@@ -22,7 +22,7 @@ body {
   margin-inline: auto;
   line-height: 1.2;
 }
-/* =========================   Hero
+/* =========================   Hero */
 
 .hero {
   max-width: 1000px;
@@ -76,7 +76,7 @@ h2 {
   text-justify: inter-word;
 }
 
-/* =========================  Botones fondos
+/* =========================  Botones fondos */
 
 .button-container {
   display: flex;
@@ -139,7 +139,7 @@ h2 {
   background: linear-gradient(135deg, #0d665f, #0b8076);
 }
 
-/* =========================  Mobile (único bloque)
+/* =========================  Mobile (único bloque) */
 
 @media (max-width: 640px) {
   body {
