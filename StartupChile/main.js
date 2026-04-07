@@ -24,10 +24,6 @@ const emailRegex = /^[A-Za-z0-9._%+-]+@([A-Za-z0-9-]{2,}\.)?[A-Za-z0-9-]{2,}\.[A
 
 let isSending = false;
 
-function getFundSlugFromPath() {
-  return new URLSearchParams(location.search).get("fund") || "startupchile";
-}
-
 function getPreferredEndpoint() {
   return API_URL;
 }
