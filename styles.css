@@ -45,7 +45,7 @@ body {
   line-height: 1.4
 }
 
-p .justify {
+.justify {
   display: block;
   text-align: justify;
   text-justify: inter-word;
@@ -97,22 +97,6 @@ h2 {
 
   transition: background-color .25s ease, color .25s ease;
   touch-action: manipulation;
-}
-
-/* Mobile: full-width square */
-@media (max-width: 640px) {
-  
-  .button-container {
-    flex-direction: column;
-    gap: 16px;
-  }
-  .button-container button {
-    width: 100%;
-    aspect-ratio: 1 / 1;  /* stays square */
-    height: auto;
-    padding: 16px;
-    border-radius: 10px;  
-  }
 }
 
 .button-container button:hover {
