@@ -87,10 +87,10 @@ body {
 
 /* ========================= GRADIENTES */
 
-#Talca {
-  background: linear-gradient(135deg, #0f172a, #2563eb);
+#Talca,
 #LasCondes,
-#Digital,
+#Digital {
+  background: linear-gradient(145deg, #020617 0%, #0f172a 40%, #1e3a8a 100%);
 }
 
 /* ========================= HOVER */
