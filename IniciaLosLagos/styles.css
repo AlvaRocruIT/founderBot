@@ -2,10 +2,6 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
-
-#app.chat-mode {
-  background: #fff;
-}
 /* Base layout ------------------------------------------------------------- */
 html, body {
   height: 100%;
