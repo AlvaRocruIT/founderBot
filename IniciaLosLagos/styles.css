@@ -19,9 +19,9 @@ html, body {
 
   /* Fondo claro azulino (solo fachada) */
   background:
-    radial-gradient(900px 420px at 15% 10%, rgba(99, 102, 241, 0.10), transparent 60%),
-    radial-gradient(800px 380px at 88% 12%, rgba(59, 130, 246, 0.10), transparent 60%),
-    #f7faff;
+    radial-gradient(1000px 500px at 12% 8%, rgba(40, 100, 255, 0.20), transparent 60%),
+    radial-gradient(900px 420px at 88% 12%, rgba(86, 64, 255, 0.15), transparent 60%),
+    linear-gradient(180deg, #06153a 0%, #0a1f57 55%, #0b2466 100%);
 }
 
 /* Glows suaves */
@@ -64,11 +64,12 @@ html, body {
 
 #start-screen h1 {
   margin-bottom: 10px;
-  color: #1f2d4d;
+  color: #eef4ff;
+
 }
 
 #start-screen p {
-  color: #5f7193;
+  color: #b7c9ef;
   margin-bottom: 20px;
   max-width: 760px;
 }
