@@ -186,25 +186,42 @@ p {
   transition: transform .18s ease, box-shadow .2s ease, filter .2s ease;
 }
 
+/* Primary */
 #acceptBtn {
-  background: linear-gradient(135deg, #3b82f6, #6366f1);
-  color: white;
+  color: #f3f8ff;
+  background: linear-gradient(135deg, #2f6fe3, #4f6de9 55%, #5762e0);
+  box-shadow: 0 10px 24px rgba(51, 103, 220, 0.32);
+  border-color: rgba(105, 150, 241, 0.45);
+}
+#acceptBtn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.05);
 }
 
+/* Secondary */
 #backBtn {
-  background: rgba(15, 23, 42, 0.8);
-  color: #cbd5e1;
-  border: 1px solid rgba(148,163,184,.35);
+  color: #d3e0f6;
+  background: linear-gradient(180deg, rgba(22, 39, 69, 0.92), rgba(17, 31, 57, 0.95));
+}
+#backBtn:hover {
+  transform: translateY(-1px);
+  border-color: rgba(120, 160, 224, 0.45);
 }
 
-@media (max-width: 640px) {
+/* Mobile */
+@media (max-width: 700px) {
   .login-panel {
-    padding: 20px;
-    border-radius: 18px;
+    padding: 22px 18px 18px;
+    border-radius: 22px;
+  }
+
+  .modal-title {
+    font-size: clamp(1.25rem, 6vw, 1.7rem);
+    margin-top: 4px;
   }
 
   .button-container {
-    flex-direction: column;
+    grid-template-columns: 1fr;
   }
 }
 
