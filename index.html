@@ -12,23 +12,64 @@
 </head>
   
 <body>
-  <div class="page">
+    <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+    <main class="page">
     <section class="hero">
+      <div class="badge">
+        ✨ Tu asistente de postulación en fase temprana
+      </div>
+      
     <h1 class="hero-title">
   <span class="line">Prepárate <br></span>
   <span class="line">para postular a tu próxima <br><span id="dynamic-text"></span><span class="cursor">|</span></span>
 </h1>
       <p class="subtitle">
-        Sabemos que emprender es dificil,<br> pero nadie dijo por qué tenía que serlo.🚀<br>
-      </p>  
+        Sabemos que emprender es dificil,<br>
+        pero nadie dijo por qué tenía que serlo.🚀
+      </p>
+    </section>
 
+   <section class="funds">
     <h2>Fondos concursables al alcance de un chat</h2>
     <div class="button-container">
       <button id="Talca" onclick="location.href='StartupChile/index.html'">Startup Chile</button>
       <button id="LasCondes" onclick="location.href='IniciaLosLagos/index.html'">Semilla Inicia | Los Lagos</button>
       <button id="Digital" onclick="location.href='IniciaLosRios/index.html'">Semilla Inicia | Los Ríos</button>
     </div>
-  </div>
+   </section>
+
+     <!-- Preview visual del chatbot -->
+    <section class="chat-preview">
+      <div class="chat-window">
+        <div class="chat-topbar">
+          <div class="dots">
+            <span></span><span></span><span></span>
+          </div>
+          <div class="status">● Chatbot activo</div>
+        </div>
+
+        <div class="chat-body">
+          <div class="msg bot">
+            ¡Hola! Soy tu asistente. ¿En qué puedo ayudarte hoy?
+          </div>
+          <div class="msg user">
+            Necesito encontrar fondos para mi startup.
+          </div>
+          <div class="msg bot">
+            Perfecto, te mostraré opciones según etapa, región y requisitos.
+          </div>
+        </div>
+
+        <div class="chat-input">
+          <input type="text" placeholder="Escribe tu mensaje..." disabled />
+          <button disabled>↗</button>
+        </div>
+      </div>
+    </section>
+  </main>
+  
   <script src="main.js"></script>
 
   <script id="cursor-track">
