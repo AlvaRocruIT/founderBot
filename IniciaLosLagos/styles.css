@@ -1,4 +1,6 @@
-
+#app.chat-mode {
+  background: #fff;
+}
 /* Base layout ------------------------------------------------------------- */
 html, body {
   height: 100%;
