@@ -68,6 +68,7 @@ html, body {
   margin: 0;
   font-size: clamp(2rem, 6vw, 4.5rem);
   line-height: 1.08;
+  font-weight: 400; 
   letter-spacing: -1px;
   background: linear-gradient(90deg, #ffffff 0%, #dbeafe 45%, #93c5fd 100%);
   -webkit-background-clip: text;
