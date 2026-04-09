@@ -251,6 +251,17 @@ html, body {
   color: #cbd5e1;
 }
 
+.dots span {
+  display: inline-block;
+  width: 10px; height: 10px;
+  border-radius: 999px;
+  margin-right: 6px;
+}
+
+.dots span:nth-child(1){ background:#ef4444; }
+.dots span:nth-child(2){ background:#f59e0b; }
+.dots span:nth-child(3){ background:#22c55e; }
+
 .status {
   color: #86efac;
   font-size: 13px;
