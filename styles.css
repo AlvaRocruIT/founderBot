@@ -173,7 +173,7 @@ html, body {
 }
 /* ========================= Chat preview */
 .chat-preview {
-  margin-top: 72px;
+  margin-top: 108px;
   display: flex;
   justify-content: center;
 }
