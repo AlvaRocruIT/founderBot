@@ -118,7 +118,6 @@ p {
   font-weight: 500;
 }
 
-
 /* ===== FIX exclusivo modal: no afectar chat ===== */
 .login-panel .modal-field {
   width: 100%;
@@ -147,12 +146,6 @@ p {
 .login-panel textarea {
   height: 52px;
   overflow: hidden;
-}
-
-/* Seguridad extra: el chat mantiene su estilo propio */
-#chat-screen textarea,
-.input-wrapper textarea {
-  /* no cambies nada acá si ya te funciona */
 }
 
 .login-panel input {
