@@ -65,18 +65,28 @@ html, body {
 }
 
 .hero-title {
-  font-size: clamp(1.8rem, 6vw, 56px);
-  line-height: 1.1;
-  font-weight: 400;
-  color: white;
-  margin-bottom: 20px;
+  margin: 0;
+  font-size: clamp(2rem, 6vw, 4.5rem);
+  line-height: 1.08;
   letter-spacing: -1px;
+  background: linear-gradient(90deg, #ffffff 0%, #dbeafe 45%, #93c5fd 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .subtitle {
-  font-size: 18px;
+  margin: 18px 0 0;
   color: var(--muted);
-  max-width: 860px;
+  font-size: clamp(1rem, 2.2vw, 1.25rem);
+  line-height: 1.5;
+}
+
+.funds { margin-top: 26px; text-align: center; }
+
+.funds h2 {
+  font-weight: 500;
+  margin-bottom: 18px;
+  color: #cbd5e1;
 }
 
 /* ========================= BOTONES */
