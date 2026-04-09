@@ -14,6 +14,39 @@ html, body {
   height: 100%;
 }
 
+/* Escena app (fachada + chat) */
+#app {
+  position: relative;
+  min-height: 100%;
+  background: radial-gradient(circle at top, #1a2742 0%, #132036 45%, #0d172a 100%);
+  overflow: hidden;
+}
+
+/* Glows decorativos SOLO dentro de app */
+#app::before,
+#app::after {
+  content: "";
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(90px);
+  pointer-events: none;
+  z-index: 0;
+}
+#app::before {
+  width: 280px;
+  height: 280px;
+  top: 60px;
+  left: 8%;
+  background: rgba(79, 140, 255, 0.25);
+}
+#app::after {
+  width: 360px;
+  height: 360px;
+  top: 180px;
+  right: 6%;
+  background: rgba(116, 84, 255, 0.18);
+}
+
 #start-screen {
   height: 100%;
   display: flex;
