@@ -110,6 +110,30 @@ html, body {
   cursor: pointer;
 }
 
+.chat-mode #messages {
+  background: rgba(8, 24, 60, 0.22);
+  border-radius: 12px;
+}
+
+/* Input inferior del chat */
+.chat-mode #chat-screen .input-wrapper.bottom {
+  background: rgba(7, 20, 49, 0.55);
+  border-top: 1px solid rgba(110, 145, 214, 0.2);
+}
+
+/* Burbujas: bot oscuro, user azul */
+.chat-mode .msg.bot {
+  background: rgba(24, 42, 78, 0.92);
+  border: 1px solid rgba(103, 136, 202, 0.25);
+  color: #eaf2ff;
+}
+
+.chat-mode .msg.user {
+  background: linear-gradient(135deg, #2f7cf0, #5a63ef);
+  border: 1px solid rgba(122, 153, 221, 0.3);
+  color: #fff;
+}
+
 /* Mantener chat y escena por encima de glows, sin recolorear chat */
 #chat-screen {
   position: relative;
