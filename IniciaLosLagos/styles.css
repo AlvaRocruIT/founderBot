@@ -142,12 +142,6 @@ p {
   min-height: 52px;
 }
 
-/* si usas textarea en modal, elimina estilo heredado del chat */
-.login-panel textarea {
-  height: 52px;
-  overflow: hidden;
-}
-
 .login-panel input {
   width: 100%;
   border-radius: 14px;
