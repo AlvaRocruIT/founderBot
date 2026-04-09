@@ -48,56 +48,50 @@ html, body {
 }
 
 #start-screen {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-#start-screen,
-#chat-screen {
   position: relative;
   z-index: 1;
 }
 
-
 #start-screen h1 {
-  color: #eaf1ff;
+  color: #1f2a44;
+  font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
 #start-screen p {
-  color: #b8c7e6;
+  color: #5f6f8f;
+  max-width: 760px;
 }
 
-#start-screen .input-wrapper textarea {
-  background: rgba(16, 28, 48, 0.78);
-  border: 1px solid rgba(120, 156, 220, 0.35);
-  color: #e8f0ff;
+/* Caja de primera pregunta (estilo clean tipo chatgpt) */
+#start-screen .input-wrapper {
+  width: min(760px, 92%);
 }
 
-#start-screen .input-wrapper textarea::placeholder {
-  color: #9cb3dc;
+#start-screen #chat-input-start {
+  background: #ffffff;
+  color: #25314d;
+  border: 1px solid #d8e2f5;
+  border-radius: 16px;
+  padding: 14px 56px 14px 16px;
+  min-height: 52px;
+  box-shadow: 0 6px 18px rgba(37, 73, 147, 0.08);
 }
 
-#start-screen .input-wrapper button {
-  background: linear-gradient(135deg, #3a79e8, #5b67f0);
+#start-screen #chat-input-start::placeholder {
+  color: #8aa0c7;
+}
+
+/* Botón enviar coherente con branding */
+#start-screen #send-btn-start {
+  background: linear-gradient(135deg, #3b82f6, #6366f1);
   color: #fff;
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
 }
 
-
-.chat-mode #chat-screen {
-  max-width: 900px;
-  margin: 0 auto;
-  height: 100vh;
-  background: transparent; /* antes blanco */
-}
-
-.chat-mode #messages {
-  background: rgba(12, 22, 39, 0.22);
-  border-radius: 14px;
-}
 /* Login overlay ------------------------------------------------------------ */
 .login-overlay {
   position: fixed;
