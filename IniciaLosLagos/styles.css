@@ -71,6 +71,21 @@ html, body {
   color: #b8c7e6;
 }
 
+#start-screen .input-wrapper textarea {
+  background: rgba(16, 28, 48, 0.78);
+  border: 1px solid rgba(120, 156, 220, 0.35);
+  color: #e8f0ff;
+}
+
+#start-screen .input-wrapper textarea::placeholder {
+  color: #9cb3dc;
+}
+
+#start-screen .input-wrapper button {
+  background: linear-gradient(135deg, #3a79e8, #5b67f0);
+  color: #fff;
+}
+
 /* Login overlay ------------------------------------------------------------ */
 .login-overlay {
   position: fixed;
