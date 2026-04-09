@@ -118,6 +118,43 @@ p {
   font-weight: 500;
 }
 
+
+/* ===== FIX exclusivo modal: no afectar chat ===== */
+.login-panel .modal-field {
+  width: 100%;
+}
+
+.login-panel input,
+.login-panel textarea {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  resize: none;
+
+  border-radius: 14px;
+  border: 1px solid rgba(87, 127, 193, 0.28);
+  background: linear-gradient(180deg, rgba(17, 31, 57, 0.85), rgba(13, 25, 48, 0.9));
+  color: #e6eeff;
+  padding: 14px 16px;
+  font-size: 1.06rem;
+  line-height: 1.25;
+  min-height: 52px;
+}
+
+/* si usas textarea en modal, elimina estilo heredado del chat */
+.login-panel textarea {
+  height: 52px;
+  overflow: hidden;
+}
+
+/* Seguridad extra: el chat mantiene su estilo propio */
+#chat-screen textarea,
+.input-wrapper textarea {
+  /* no cambies nada acá si ya te funciona */
+}
+
 .login-panel input {
   width: 100%;
   border-radius: 14px;
