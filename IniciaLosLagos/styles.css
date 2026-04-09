@@ -1,7 +1,11 @@
+/* Fix sizing global */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 #app.chat-mode {
   background: #fff;
 }
-
 /* Base layout ------------------------------------------------------------- */
 html, body {
   height: 100%;
@@ -279,11 +283,6 @@ p {
 .chat-mode #chat-screen .input-wrapper.bottom textarea {
   width: 100%;
   box-sizing: border-box;
-}
-
-/* Fondo uniforme (sin contraste entre centro y laterales) */
-html, body, #app {
-  background: #fff;
 }
 
 /* Chat bubbles 🫧 */
