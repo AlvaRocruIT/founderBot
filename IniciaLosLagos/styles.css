@@ -134,11 +134,6 @@ html, body {
   color: #fff;
 }
 
-/* Mantener chat y escena por encima de glows, sin recolorear chat */
-#chat-screen {
-  position: relative;
-  z-index: 1;
-}
 /* Login overlay ------------------------------------------------------------ */
 .login-overlay {
   position: fixed;
