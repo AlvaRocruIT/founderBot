@@ -389,13 +389,8 @@ html, body {
   bottom: 0;
   width: 100%;
   box-sizing: border-box;
-  background: #fff;
-  border-top: 1px solid transparent;
-}
-
-.chat-mode #chat-screen .input-wrapper.bottom textarea {
-  width: 100%;
-  box-sizing: border-box;
+  background: rgba(7, 20, 49, 0.55);
+  border-top: 1px solid rgba(110, 145, 214, 0.2);
 }
 
 /* Chat bubbles 🫧 */
