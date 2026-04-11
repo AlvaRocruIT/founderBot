@@ -420,18 +420,9 @@ html, body {
 .chat-mode .msg.bot {
   margin-left: 0;
   margin-right: auto;
-  background: linear-gradient(
-    180deg,
-    rgba(36, 58, 95, 0.85),
-    rgba(28, 48, 84, 0.88)
-  );
-  color: #eaf2ff;
-  border: 1px solid rgba(120, 160, 220, 0.18);
-  box-shadow:
-    0 6px 20px rgba(0, 0, 0, 0.25),
-    inset 0 1px 0 rgba(255, 255, 255, 0.05);
-  border-radius: 18px;
-  backdrop-filter: blur(6px);
+  background: #e3f4ff;
+  color: #183242;
+  border: 1px solid #cae9fb;
   animation-name: slideInLeft;
 }
 
