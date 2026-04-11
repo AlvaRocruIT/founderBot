@@ -431,6 +431,51 @@ html, body {
   animation-name: slideInLeft;
 }
 
+/* ===== Igualar input/chat final al estilo del input inicial ===== */
+.chat-mode #chat-screen .input-wrapper.bottom {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px 14px;
+  background: transparent; /* mantiene el fondo del chat */
+  border-top: none;
+}
+
+.chat-mode #chat-screen .input-wrapper.bottom {
+  position: sticky;
+  bottom: 0;
+}
+
+.chat-mode #chat-screen .input-wrapper.bottom textarea#chat-input-chat {
+  width: 100%;
+  min-height: 54px;
+  resize: none;
+  padding: 14px 58px 14px 16px;
+  border-radius: 24px;
+  border: 1px solid rgba(108, 146, 218, 0.35);
+  background: rgba(14, 29, 66, 0.85);
+  color: #e7f0ff;
+  box-shadow: 0 8px 22px rgba(5, 16, 42, 0.35);
+  font-size: 16px;
+  line-height: 1.35;
+  box-sizing: border-box;
+}
+
+.chat-mode #chat-screen .input-wrapper.bottom button#send-btn-chat {
+  position: absolute;
+  right: 22px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: linear-gradient(135deg, #2f7cf0, #5b64f0);
+  color: #fff;
+  cursor: pointer;
+}
+
 /* Animación de entrada */
 @keyframes slideInRight {
   from { opacity: 0; transform: translateX(20px); }
