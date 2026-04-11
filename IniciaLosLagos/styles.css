@@ -353,7 +353,6 @@ html, body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background: transparent;
 }
 
 .chat-mode #chat-screen .input-wrapper.bottom {
