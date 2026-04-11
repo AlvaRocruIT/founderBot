@@ -306,7 +306,6 @@ html, body {
 }
 
 .chat-mode #messages {
-  background: rgba(8, 24, 60, 0.22);
   border-radius: 12px;
 }
 
