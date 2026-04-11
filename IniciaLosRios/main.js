@@ -6,6 +6,7 @@ const chatScreen = document.getElementById("chat-screen");
 const messages = document.getElementById("messages");
 //▶️ Modal login
 const loginOverlay = document.getElementById("loginOverlay");
+const modalCloseBtn = document.getElementById("modalCloseBtn");
 const backBtn = document.getElementById("backBtn");
 const acceptBtn = document.getElementById("acceptBtn");
 const infoToggleBtn = document.getElementById("infoToggleBtn");
@@ -24,6 +25,10 @@ const emailRegex = /^[A-Za-z0-9._%+-]+@([A-Za-z0-9-]{2,}\.)?[A-Za-z0-9-]{2,}\.[A
 
 let isSending = false;
 
+function getFundSlugFromPath() {
+  return new URLSearchParams(location.search).get("fund") || "IniciaLosLagos";
+}
+
 function getPreferredEndpoint() {
   return API_URL;
 }
@@ -35,11 +40,6 @@ function getOrCreateSessionId() {
     localStorage.setItem("sessionId", sessionId);
   }
   return sessionId;
-}
-
-function getFundSlugFromPath() {
-  const slug = new URLSearchParams(location.search).get("fund") || "IniciaLosRios";
-  return slug;
 }
 
 function buildPayload(messageText) {
@@ -149,6 +149,11 @@ function bindEnterToSend(textareaEl, sendFn) {
 }
 
 // =============================== Modal logic
+
+modalCloseBtn?.addEventListener("click", () => {
+  loginOverlay?.setAttribute("hidden", "");
+});
+
 async function handleAccept() {
   const name = loginName?.value.trim() || "";
   const email = loginEmail?.value.trim() || "";
