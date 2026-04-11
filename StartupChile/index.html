@@ -17,44 +17,50 @@
   <!-- Modal de acceso -->
   <div class="login-overlay" id="loginOverlay">
     <div class="login-panel">
-      <p>Solo para comenzar, te pediremos tu <span class="bold">nombre y correo</span> electrónico</p>
+      <button class="modal-close" id="modalCloseBtn" type="button" aria-label="Cerrar">✕</button>
 
-      <p class="field-label">Nombre</p>
-      <textarea
+      <h2 class="modal-title">
+         Solo para comenzar, te pediremos tu <span class="bold">nombre y correo</span> electrónico
+      </h2>
+
+      <div class="modal-field">
+         <label class="field-label" for="loginName">Nombre</label>
+      <input
         id="loginName"
-        rows="1"
+        type="text"
         placeholder="Juli@"
         autocomplete="off"
         autocapitalize="none"
         spellcheck="false"
-      ></textarea>
+      />
+      </div>
 
-      <p class="field-label">Correo</p>
-      <textarea
+       <div class="modal-field">
+      <label class="field-label" for="loginEmail">Correo</label>
+      <input
         id="loginEmail"
-        rows="1"
+        type="email"
         placeholder="Juli@correo.com"
         autocomplete="off"
         autocapitalize="none"
         spellcheck="false"
-      ></textarea>
+      />
+    </div>
 
       <button
-        type="button"
-        id="infoToggleBtn"
-        class="info-toggle"
-        aria-expanded="false"
-      >
-          ⁉️ ¿Para qué necesitan estos datos? ⁉️
-      </button>
+      type="button"
+      id="infoToggleBtn"
+      class="info-toggle"
+      aria-expanded="false"
+    >
+      ℹ️ ¿Para qué necesitan estos datos?
+    </button>
 
       <div id="consentInfoBox" class="history-box" hidden>
-        Este chatbot está pensado para facilitar
-        <span class="bold">tu experiencia de postulación a fondos concursables.</span><br>
-          🧑🏻‍💻 Al registrar tu nombre y correo, nos estarás permitiendo contactarte
-          para recoger retroalimentación y mejorar día a día. <br>
-        <span class="bold">Así democratizaremos el acceso</span> a mejores oportunidades de crecimiento. 🫵🏻
-      </div>
+      Este chatbot está pensado para facilitar tu experiencia de postulación a fondos concursables.
+      Al registrar tu nombre y correo, nos permites contactarte para recoger feedback y mejorar esta solución.<br>
+      Con esto, nos estarás ayudando a democratizar el acceso a la información.
+    </div>
 
       <div class="button-container">
         <button id="acceptBtn" type="button">Aceptar</button>
