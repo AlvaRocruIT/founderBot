@@ -23,6 +23,7 @@ En vez de solo leer un PDF, el usuario obtiene señales estratégicas y personal
 ✅ A 🐯founderBot le configuré botón de pago mediante MercadoPago🫱🏼‍🫲🏼📅 02 ABR. 2026 <br>
 ✅ Primeras interacciones en vivo con 🐯founderBot 📅 06 ABR. 2026<br>
 ✅ Se logra a un layout inmersivo y persuasivo con propósito de ventas 📅 10 ABR. 2026<br>
+🛫 <strong>Comienzo a buscar early adopters. Reu con Jacob arredondo</strong> 📅 14 ABR. 2026<br>
 
 
 
